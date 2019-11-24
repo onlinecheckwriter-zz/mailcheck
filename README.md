@@ -27,14 +27,14 @@ onlinecheckwriter.com PHP Client is a simple but flexible wrapper for the [onlin
 
 ### Registration
 
-###Sandbox 
+#### Sandbox 
 
 First, you will need to  create an account at [sandbox.onlinecheckwriter.com](https://sandbox.onlinecheckwriter.com) and obtain your Test  API Key.
 
 Once you have created an account, you can access your API Keys from the [Developer Panel](https://sandbox.onlinecheckwriter.com/manage/developer/index).
 
 
-###Live Enviorment 
+#### Live Enviorment 
 
 First, you will need to first create an account at [app.onlinecheckwriter.com](https://app.onlinecheckwriter.com) and obtain your Live  API Key.
 
