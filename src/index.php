@@ -9,7 +9,7 @@ class Index
     const SANDBOX_BASE_URL = 'https://sandbox.onlinecheckwriter.com/api/v2';
     const LIVE_BASE_URL = 'https://app.onlinecheckwriter.com/api/v2';
 
-    public function __construct()
+    public function __construct( $token="")
     {
         $this->token = $token;
         $this->base_url = self::SANDBOX_BASE_URL;
@@ -26,12 +26,12 @@ class Index
 
         if ($enviorment == "SANDBOX" || $enviorment == "")
         {
-            $this->base_url(self::SANDBOX_BASE_URL);
+            $this->base_url=(self::SANDBOX_BASE_URL);
         }
 
         if ($enviorment == "LIVE")
         {
-            $this->base_url(self::LIVE_BASE_URL);
+            $this->base_url=(self::LIVE_BASE_URL);
         }
         return $this;
 
@@ -79,20 +79,20 @@ class Index
 
     public function getBankAccountId($data)
     {
-        return $this->sentRequest("/bankaccount/getid");
+        return $this->sentRequest("/bankaccount/getid",$data);
     }
 
     public function createPayee($data)
     {
-        return $this->sentRequest("/bankaccount/getid", $data);
+        return $this->sentRequest("/payee/create", $data);
     }
 
-    public function createCheck($post_field_json_data)
+    public function createCheck($data)
     {
         return $this->sentRequest("/check/create", $data);
     }
 
-    public function sentMail($post_field_json_data)
+    public function sentMail($data)
     {
         return $this->sentRequest("/mail/sent", $data);
     }
