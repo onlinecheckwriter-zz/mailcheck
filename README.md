@@ -12,7 +12,7 @@ onlinecheckwriter.com PHP Client is a simple but flexible wrapper for the [onlin
   - [Usage](#usage)
 - [Examples](#examples)
 - [API Documentation](#api-documentation)
-- [Testing](#testing)
+
 
 ## Getting Started
 
