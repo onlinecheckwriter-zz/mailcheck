@@ -65,13 +65,25 @@ require_once __DIR__ . '/vendor/autoload.php';
 
 ```php
 // setToken
-// setEnviorment : SANDBOX / LIVE  
+// setEnviorment : SANDBOX   
 
 use onlinecheckwriter\MailCheck\Index;
 
 $ocw = (new Index());
 $ocw->setToken("G5LoP94QISpOvk6i072yXDFBPwSjRS01foqlYPdVdYJ7li2NRkvzuHvYIzif")
 $ocw->setEnviorment("SANDBOX");
+
+
+
+// setToken
+// setEnviorment : LIVE   
+
+use onlinecheckwriter\MailCheck\Index;
+
+$ocw = (new Index());
+$ocw->setToken("YOUR API TOKEN")
+$ocw->setEnviorment("LIVE");
+
 
 
 ```
