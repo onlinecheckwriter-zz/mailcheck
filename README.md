@@ -105,7 +105,7 @@ There are simple scripts to demonstrate how to create all the core onlinecheckwr
 
 =======================
 
-### mail type
+### Mail Type
 - 1 = First Class Mail
 - 2 = First Class with Tracking
 - 4 = USPS Priority Mail
