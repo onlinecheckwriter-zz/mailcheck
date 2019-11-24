@@ -1,8 +1,6 @@
 # Onlinecheckwriter - Mail Check
 
-[![PHP version](https://badge.fury.io/ph/lob%2Flob-php.svg)](https://badge.fury.io/ph/lob%2Flob-php)
-[![Build Status](https://travis-ci.org/lob/lob-php.svg?branch=master)](https://travis-ci.org/lob/lob-php)
-[![Coverage Status](https://img.shields.io/coveralls/lob/lob-php.svg)](https://coveralls.io/r/lob/lob-php?branch=master)
+
 
 onlinecheckwriter.com PHP Client is a simple but flexible wrapper for the [onlinecheckwriter.com](https://www.onlinecheckwriter.com) API. See full onlinecheckwriter.com documentation [here](https://apidoc.onlinecheckwriter.com/?version=latest). 
 
