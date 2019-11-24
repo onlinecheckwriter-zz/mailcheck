@@ -36,7 +36,7 @@ Once you have created an account, you can access your API Keys from the [Develop
 
 #### Live Enviorment 
 
-First, you will need to first create an account at [app.onlinecheckwriter.com](https://app.onlinecheckwriter.com) and obtain your Live  API Key.
+First, you will need to  create an account at [app.onlinecheckwriter.com](https://app.onlinecheckwriter.com) and obtain your Live  API Key.
 
 Once you have created an account, you can access your API Keys from the [Developer Panel](https://sandbox.onlinecheckwriter.com/manage/developer/index).
 
