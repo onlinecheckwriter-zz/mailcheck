@@ -95,4 +95,3 @@ There are simple scripts to demonstrate how to create all the core onlinecheckwr
 
 Copyright &copy; 2019 onlinecheckwriter.com
 
-Released under the MIT License, which can be found in the repository in `LICENSE.txt`.
