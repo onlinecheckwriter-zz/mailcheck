@@ -18,19 +18,32 @@ onlinecheckwriter.com PHP Client is a simple but flexible wrapper for the [onlin
 
 ## Getting Started
 
-Here's a general overview  click through to read more.
 
-- [Check API](https://lob.com/products/print-mail/postcards)
-- [Mail API](https://lob.com/products/print-mail/letters)
+- Complete registration
+- Get Token
+- Install package
+- You are ready to go.
 
 
 
 
 ### Registration
 
+Sandbox 
+
 First, you will need to first create an account at [sandbox.onlinecheckwriter.com](https://sandbox.onlinecheckwriter.com) and obtain your Test  API Key.
 
 Once you have created an account, you can access your API Keys from the [Developer Panel](https://sandbox.onlinecheckwriter.com/manage/developer/index).
+
+
+Live Enviorment 
+
+First, you will need to first create an account at [app.onlinecheckwriter.com](https://app.onlinecheckwriter.com) and obtain your Live  API Key.
+
+Once you have created an account, you can access your API Keys from the [Developer Panel](https://sandbox.onlinecheckwriter.com/manage/developer/index).
+
+
+
 
 ### Installation
 
