@@ -1,0 +1,25 @@
+{
+    "name": "onlinecheckwriter/mailcheck",
+    "description": "A simple bank check mailing api from onlinecheckwriter",
+	"keywords": [
+    "online check mailing",
+    "sent physical bank check",
+    "bank check api",
+    "online check writer",
+    "check mailing",
+    "check mailing api"
+  ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Online Check Writer",
+            "email": "support@onlinecheckwriter.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"onlinecheckwriter\\MailCheck\\": "src/"}
+    },
+    "require": {}
+}
