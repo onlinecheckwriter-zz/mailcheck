@@ -1,4 +1,4 @@
-# lob-php
+# Onlinecheckwriter - Mail Check
 
 [![PHP version](https://badge.fury.io/ph/lob%2Flob-php.svg)](https://badge.fury.io/ph/lob%2Flob-php)
 [![Build Status](https://travis-ci.org/lob/lob-php.svg?branch=master)](https://travis-ci.org/lob/lob-php)
