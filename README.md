@@ -13,6 +13,7 @@ onlinecheckwriter.com PHP Client is a simple but flexible wrapper for the [onlin
 - [Examples](#examples)
 - [Video Explanation](https://www.youtube.com/watch?v=KCXGY4Ukhxk&feature=youtu.be)
 - [API Documentation](#api-documentation)
+- [Mail Type explanation](#mail_type)
 
 
 ## Getting Started
@@ -103,6 +104,17 @@ There are simple scripts to demonstrate how to create all the core onlinecheckwr
 - [Mail](https://apidoc.onlinecheckwriter.com/?version=latest#02510e12-f13c-42fa-b6dc-7109e518a629)
 
 =======================
+
+## Mail Type
+- 1 = First Class Mail
+- 2 = First Class with Tracking
+- 4 = USPS Priority Mail
+- 5 = USPS Express Mail
+- 6 = Fedex express saver
+- 11 = Fedex 2 days shipping
+- 11 = Fedex Standard Overnight
+- 13 = Fedex Priority Overnight
+
 
 Copyright &copy; 2019 onlinecheckwriter.com
 
