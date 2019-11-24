@@ -11,7 +11,7 @@ onlinecheckwriter.com PHP Client is a simple but flexible wrapper for the [onlin
   - [Installation](#installation)
   - [Usage](#usage)
 - [Examples](#examples)
--[Video Explanation](https://www.youtube.com/watch?v=KCXGY4Ukhxk&feature=youtu.be)
+- [Video Explanation](https://www.youtube.com/watch?v=KCXGY4Ukhxk&feature=youtu.be)
 - [API Documentation](#api-documentation)
 
 
