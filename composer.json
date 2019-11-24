@@ -17,7 +17,6 @@
             "email": "support@onlinecheckwriter.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"onlinecheckwriter\\MailCheck\\": "src/"}
     },
